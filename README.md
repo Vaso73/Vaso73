@@ -1,4 +1,4 @@
-# Hi, I'm VAIO73 👋
+# Hi, I'm VASO 👋
 
 I build practical tools for Windows admins, homelab users, and people who
 manage servers, networks, and remote systems every day.
