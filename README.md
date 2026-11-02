@@ -56,3 +56,5 @@ Some tools have Public Demo or Public Free releases, while current Sponsor Pro
 builds and authorized private updates are available through GitHub Sponsors.
 
 [Sponsor development](https://github.com/sponsors/Vaso73) if the tools save you time or make your admin day calmer.
+
+You can also [buy me a coffee on Ko-fi](https://ko-fi.com/vaio73) if you'd like to support my work. Every contribution is appreciated — thank you! ☕
