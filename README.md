@@ -46,7 +46,7 @@ automation, network diagnostics, monitoring, and homelab infrastructure.
 · `Monitoring` · `Network tools`
 
 ### 💬 Get in touch
-Have a question, an idea, or just want to say hello? Feel free to reach out on Telegram: [@Vaio73](https://t.me/Vaio73).
+Have a question, an idea, or just want to say hello? Feel free to [send me a private message on Telegram](https://t.me/VasoProjects?direct).
 
 Always happy to exchange ideas and meet people with shared interests.
 
