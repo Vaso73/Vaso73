@@ -45,6 +45,11 @@ automation, network diagnostics, monitoring, and homelab infrastructure.
 · `Proxmox` · `Linux servers` · `Shell scripts` · `TypeScript` · `Python`
 · `Monitoring` · `Network tools`
 
+### 💬 Get in touch
+Have a question, an idea, or just want to say hello? Feel free to reach out on Telegram: [@Vaio73](https://t.me/Vaio73).
+
+Always happy to exchange ideas and meet people with shared interests.
+
 ## 💜 Support
 
 Some tools have Public Demo or Public Free releases, while current Sponsor Pro
