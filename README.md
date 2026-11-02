@@ -50,6 +50,8 @@ Have a question, an idea, or just want to say hello? Feel free to [send me a pri
 
 Always happy to exchange ideas and meet people with shared interests.
 
+[![Telegram: Message me](https://img.shields.io/badge/Telegram-Message%20me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/VasoProjects?direct)
+
 ## 💜 Support
 
 Some tools have Public Demo or Public Free releases, while current Sponsor Pro
@@ -58,3 +60,6 @@ builds and authorized private updates are available through GitHub Sponsors.
 [Sponsor development](https://github.com/sponsors/Vaso73) if the tools save you time or make your admin day calmer.
 
 You can also [buy me a coffee on Ko-fi](https://ko-fi.com/vaio73) if you'd like to support my work. Every contribution is appreciated — thank you! ☕
+
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub-Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Vaso73)
+[![Ko-fi: Buy me a coffee](https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/vaio73)
